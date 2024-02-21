@@ -124,6 +124,7 @@ li {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 370px));
   gap: 30px;
+  justify-content: center;
 }
 .projects__item {
   display: grid;
